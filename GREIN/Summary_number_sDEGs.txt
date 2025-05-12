@@ -1,0 +1,11 @@
+dataset	morethan70	total_samples	percentage	mean_percentage_aligned_reads	case_control	sex	tissue	severity	age	adjusting_for	limma_up	limma_down	deseq2_up	deseq2_down
+AD_brain_GSE95587	117	117	100	86.2316239316239	84/33	yes	1	yes	yes	sex	2977	2777	3027	2612
+COVID19_cl_GSE147507	171	195	87.692	79.8769230769231	11/26	no	3	no	no	tissue	964	994	1107	1159
+COVID19_dopaminergic_GSE174745	18	33	54.545	57.1545454545455	15/3	no	1	no	no	treatment	1259	1717	2235	1989
+COVID19_hipsc_GSE179923	28	30	93.333	87.9166666666667	5/6	no	1	no	no	no	1	0	35	16
+COVID19_pbmc_GSE152418	68	68	100	80.0161764705882	16/17	yes	1	yes	no	sex	2610	2767	2971	2722
+COVID19_pbmc_GSE251849	23	23	100	89.1652173913044	16/7	yes	1	yes	no	sex	1	0	117	56
+MS_brain_GSE123496	48	50	96	79.982	23/25	no	5	no	no	tissue	1399	1240	1432	1921
+PD_brain_GSE136666	16	16	100	79.3125	8/8	yes	2	no	no	tissue + sex	0	0	175	244
+PD_brain_GSE216281	51	84	60.714	70.5583333333333	35/16	yes	1	yes	yes	sex	0	0	1	1
+PD_brain_GSE68719	73	73	100	85.6575342465753	29/44	males	1	no	yes	no	3067	2940	3166	3365
