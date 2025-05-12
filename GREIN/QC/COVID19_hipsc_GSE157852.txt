@@ -1,0 +1,19 @@
+Sample Name	% Aligned	M Aligned	% Dups	% GC	M Seqs
+SRR12626034_GSM4776784_transcripts_quant	60.0%	28.5			
+SRR12626034_pass			39.3%	39%	47.5
+SRR12626035_GSM4776785_transcripts_quant	63.6%	27.9			
+SRR12626035_pass			42.9%	40%	43.9
+SRR12626036_GSM4776786_transcripts_quant	64.3%	24.4			
+SRR12626036_pass			43.7%	39%	38.0
+SRR12626037_GSM4776787_transcripts_quant	55.0%	18.9			
+SRR12626037_pass			36.3%	39%	34.3
+SRR12626038_GSM4776788_transcripts_quant	60.9%	29.2			
+SRR12626038_pass			48.3%	39%	48.1
+SRR12626039_GSM4776789_transcripts_quant	56.6%	33.2			
+SRR12626039_pass			49.7%	39%	58.7
+SRR12626040_GSM4776790_transcripts_quant	59.4%	35.7			
+SRR12626040_pass			46.4%	39%	60.1
+SRR12626041_GSM4776791_transcripts_quant	65.2%	19.7			
+SRR12626041_pass			42.6%	39%	30.2
+SRR12626042_GSM4776792_transcripts_quant	60.3%	27.1			
+SRR12626042_pass			45.9%	39%	44.9

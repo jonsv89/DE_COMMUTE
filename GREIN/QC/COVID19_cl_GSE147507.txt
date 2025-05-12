@@ -1,0 +1,391 @@
+Sample Name	% Aligned	M Aligned	% Dups	% GC	Length	M Seqs
+SRR11412215_GSM4432378_transcripts_quant	92.4%	3.9				
+SRR11412215_pass			60.1%	49%	131 bp	4.3
+SRR11412216_GSM4432378_transcripts_quant	92.4%	3.9				
+SRR11412216_pass			60.1%	49%	131 bp	4.2
+SRR11412217_GSM4432378_transcripts_quant	92.7%	4.0				
+SRR11412217_pass			61.2%	49%	131 bp	4.3
+SRR11412218_GSM4432378_transcripts_quant	92.8%	3.9				
+SRR11412218_pass			61.0%	49%	131 bp	4.2
+SRR11412219_GSM4432379_transcripts_quant	91.2%	3.7				
+SRR11412219_pass			58.8%	49%	128 bp	4.1
+SRR11412220_GSM4432379_transcripts_quant	91.7%	3.7				
+SRR11412220_pass			58.9%	49%	128 bp	4.0
+SRR11412221_GSM4432379_transcripts_quant	90.9%	3.8				
+SRR11412221_pass			59.1%	49%	128 bp	4.1
+SRR11412222_GSM4432379_transcripts_quant	91.9%	3.7				
+SRR11412222_pass			59.7%	49%	128 bp	4.0
+SRR11412223_GSM4432380_transcripts_quant	92.1%	5.6				
+SRR11412223_pass			64.0%	49%	120 bp	6.1
+SRR11412224_GSM4432380_transcripts_quant	92.1%	5.5				
+SRR11412224_pass			63.7%	49%	120 bp	6.0
+SRR11412225_GSM4432380_transcripts_quant	92.3%	5.6				
+SRR11412225_pass			64.4%	49%	120 bp	6.1
+SRR11412226_GSM4432380_transcripts_quant	92.3%	5.6				
+SRR11412226_pass			64.2%	49%	120 bp	6.0
+SRR11412227_GSM4432381_transcripts_quant	92.4%	3.5				
+SRR11412227_pass			58.3%	50%	135 bp	3.8
+SRR11412228_GSM4432381_transcripts_quant	92.4%	3.4				
+SRR11412228_pass			57.8%	50%	135 bp	3.7
+SRR11412229_GSM4432381_transcripts_quant	92.6%	3.5				
+SRR11412229_pass			58.8%	50%	135 bp	3.8
+SRR11412230_GSM4432381_transcripts_quant	92.6%	3.5				
+SRR11412230_pass			58.7%	50%	135 bp	3.7
+SRR11412231_GSM4432382_transcripts_quant	92.3%	3.5				
+SRR11412231_pass			60.0%	49%	134 bp	3.8
+SRR11412232_GSM4432382_transcripts_quant	92.3%	3.5				
+SRR11412232_pass			60.1%	49%	134 bp	3.7
+SRR11412233_GSM4432382_transcripts_quant	92.6%	3.5				
+SRR11412233_pass			60.8%	49%	134 bp	3.8
+SRR11412234_GSM4432382_transcripts_quant	92.6%	3.5				
+SRR11412234_pass			60.6%	49%	133 bp	3.7
+SRR11412235_GSM4432383_transcripts_quant	92.3%	10.2				
+SRR11412235_pass			71.2%	49%	132 bp	11.1
+SRR11412236_GSM4432383_transcripts_quant	92.3%	10.1				
+SRR11412236_pass			70.6%	49%	132 bp	10.9
+SRR11412237_GSM4432383_transcripts_quant	92.4%	10.3				
+SRR11412237_pass			71.3%	49%	132 bp	11.2
+SRR11412238_GSM4432383_transcripts_quant	92.5%	10.2				
+SRR11412238_pass			71.1%	49%	132 bp	11.0
+SRR11412239_GSM4432384_transcripts_quant	85.7%	5.7				
+SRR11412239_pass			40.2%	53%	145 bp	6.6
+SRR11412240_GSM4432384_transcripts_quant	85.8%	5.7				
+SRR11412240_pass			39.8%	53%	145 bp	6.6
+SRR11412241_GSM4432384_transcripts_quant	86.2%	6.0				
+SRR11412241_pass			40.9%	53%	145 bp	6.9
+SRR11412242_GSM4432384_transcripts_quant	86.1%	5.9				
+SRR11412242_pass			40.8%	53%	145 bp	6.8
+SRR11412243_GSM4432385_transcripts_quant	86.3%	3.1				
+SRR11412243_pass			34.5%	54%	145 bp	3.6
+SRR11412244_GSM4432385_transcripts_quant	86.4%	3.1				
+SRR11412244_pass			34.4%	54%	145 bp	3.6
+SRR11412245_GSM4432385_transcripts_quant	86.8%	3.3				
+SRR11412245_pass			35.3%	54%	146 bp	3.8
+SRR11412246_GSM4432385_transcripts_quant	86.8%	3.2				
+SRR11412246_pass			35.1%	54%	146 bp	3.7
+SRR11412247_GSM4432386_transcripts_quant	81.6%	2.4				
+SRR11412247_pass			35.9%	55%	146 bp	2.9
+SRR11412248_GSM4432386_transcripts_quant	81.7%	2.3				
+SRR11412248_pass			35.8%	55%	146 bp	2.9
+SRR11412249_GSM4432386_transcripts_quant	82.2%	2.5				
+SRR11412249_pass			36.8%	55%	146 bp	3.0
+SRR11412250_GSM4432386_transcripts_quant	82.0%	2.4				
+SRR11412250_pass			36.7%	55%	146 bp	2.9
+SRR11412251_GSM4432387_transcripts_quant	88.1%	7.4				
+SRR11412251_pass			43.6%	51%	146 bp	8.4
+SRR11412252_GSM4432387_transcripts_quant	88.2%	7.4				
+SRR11412252_pass			43.5%	51%	146 bp	8.4
+SRR11412253_GSM4432387_transcripts_quant	88.5%	7.7				
+SRR11412253_pass			44.5%	51%	146 bp	8.8
+SRR11412254_GSM4432387_transcripts_quant	88.5%	7.6				
+SRR11412254_pass			44.3%	51%	146 bp	8.6
+SRR11412255_GSM4432388_transcripts_quant	82.2%	6.0				
+SRR11412255_pass			46.2%	54%	144 bp	7.3
+SRR11412256_GSM4432388_transcripts_quant	82.3%	6.0				
+SRR11412256_pass			45.9%	54%	144 bp	7.3
+SRR11412257_GSM4432388_transcripts_quant	82.6%	6.3				
+SRR11412257_pass			46.9%	54%	144 bp	7.6
+SRR11412258_GSM4432388_transcripts_quant	82.6%	6.2				
+SRR11412258_pass			46.5%	54%	144 bp	7.5
+SRR11412259_GSM4432389_transcripts_quant	86.3%	4.4				
+SRR11412259_pass			38.3%	53%	146 bp	5.1
+SRR11412260_GSM4432389_transcripts_quant	86.4%	4.3				
+SRR11412260_pass			38.2%	53%	146 bp	5.0
+SRR11412261_GSM4432389_transcripts_quant	86.8%	4.6				
+SRR11412261_pass			39.1%	53%	146 bp	5.3
+SRR11412262_GSM4432389_transcripts_quant	86.8%	4.5				
+SRR11412262_pass			39.1%	53%	146 bp	5.2
+SRR11412263_GSM4432390_transcripts_quant	83.6%	6.6				
+SRR11412263_pass			54.8%	52%	144 bp	8.0
+SRR11412264_GSM4432390_transcripts_quant	83.7%	6.6				
+SRR11412264_pass			54.5%	52%	144 bp	7.9
+SRR11412265_GSM4432390_transcripts_quant	84.0%	6.9				
+SRR11412265_pass			55.5%	52%	144 bp	8.2
+SRR11412266_GSM4432390_transcripts_quant	83.9%	6.8				
+SRR11412266_pass			55.5%	52%	144 bp	8.0
+SRR11412267_GSM4432391_transcripts_quant	81.7%	5.3				
+SRR11412267_pass			49.9%	52%	147 bp	6.5
+SRR11412268_GSM4432391_transcripts_quant	81.8%	5.2				
+SRR11412268_pass			49.7%	52%	147 bp	6.4
+SRR11412269_GSM4432391_transcripts_quant	82.3%	5.5				
+SRR11412269_pass			50.7%	52%	147 bp	6.7
+SRR11412270_GSM4432391_transcripts_quant	82.2%	5.4				
+SRR11412270_pass			50.2%	52%	147 bp	6.6
+SRR11412271_GSM4432392_transcripts_quant	82.9%	2.3				
+SRR11412271_pass			46.7%	52%	144 bp	2.8
+SRR11412272_GSM4432392_transcripts_quant	83.0%	2.3				
+SRR11412272_pass			46.6%	52%	144 bp	2.8
+SRR11412273_GSM4432392_transcripts_quant	83.3%	2.4				
+SRR11412273_pass			47.7%	52%	144 bp	2.9
+SRR11412274_GSM4432392_transcripts_quant	83.3%	2.3				
+SRR11412274_pass			47.2%	52%	144 bp	2.8
+SRR11412275_GSM4432393_transcripts_quant	84.4%	1.3				
+SRR11412275_pass			39.2%	53%	143 bp	1.6
+SRR11412276_GSM4432393_transcripts_quant	84.3%	1.3				
+SRR11412276_pass			38.7%	53%	143 bp	1.6
+SRR11412277_GSM4432393_transcripts_quant	84.8%	1.4				
+SRR11412277_pass			40.7%	53%	143 bp	1.6
+SRR11412278_GSM4432393_transcripts_quant	84.8%	1.4				
+SRR11412278_pass			40.6%	53%	143 bp	1.6
+SRR11412279_GSM4432394_transcripts_quant	83.2%	1.1				
+SRR11412279_pass			30.9%	52%	146 bp	1.4
+SRR11412280_GSM4432394_transcripts_quant	83.3%	1.1				
+SRR11412280_pass			30.8%	52%	146 bp	1.4
+SRR11412281_GSM4432394_transcripts_quant	83.1%	1.2				
+SRR11412281_pass			31.4%	52%	146 bp	1.4
+SRR11412282_GSM4432394_transcripts_quant	83.2%	1.2				
+SRR11412282_pass			31.4%	52%	146 bp	1.4
+SRR11412283_GSM4432395_transcripts_quant	82.5%	2.3				
+SRR11412283_pass			38.6%	52%	139 bp	2.8
+SRR11412284_GSM4432395_transcripts_quant	82.8%	2.3				
+SRR11412284_pass			38.2%	51%	140 bp	2.7
+SRR11412285_GSM4432395_transcripts_quant	82.7%	2.3				
+SRR11412285_pass			39.0%	51%	139 bp	2.8
+SRR11412286_GSM4432395_transcripts_quant	82.7%	2.3				
+SRR11412286_pass			38.6%	51%	139 bp	2.8
+SRR11412287_GSM4432396_transcripts_quant	71.3%	2.4				
+SRR11412287_pass			52.4%	47%	139 bp	3.4
+SRR11412288_GSM4432396_transcripts_quant	71.3%	2.4				
+SRR11412288_pass			52.4%	47%	139 bp	3.3
+SRR11412289_GSM4432396_transcripts_quant	71.2%	2.4				
+SRR11412289_pass			52.5%	47%	138 bp	3.4
+SRR11412290_GSM4432396_transcripts_quant	71.2%	2.4				
+SRR11412290_pass			52.4%	47%	138 bp	3.3
+SRR11412291_GSM4432397_transcripts_quant	55.2%	0.6				
+SRR11412291_pass			52.6%	54%	130 bp	1.1
+SRR11412292_GSM4432397_transcripts_quant	55.0%	0.6				
+SRR11412292_pass			52.7%	54%	130 bp	1.1
+SRR11412293_GSM4432397_transcripts_quant	55.1%	0.6				
+SRR11412293_pass			53.1%	54%	129 bp	1.1
+SRR11412294_GSM4432397_transcripts_quant	55.1%	0.6				
+SRR11412294_pass			53.2%	54%	129 bp	1.1
+SRR11517674_GSM4462336_transcripts_quant	90.1%	22.6				
+SRR11517674_pass			61.3%	51%	133 bp	25.1
+SRR11517675_GSM4462337_transcripts_quant	89.5%	21.3				
+SRR11517675_pass			63.5%	50%	133 bp	23.8
+SRR11517676_GSM4462338_transcripts_quant	89.4%	19.8				
+SRR11517676_pass			63.4%	51%	138 bp	22.2
+SRR11517677_GSM4462339_transcripts_quant	90.4%	20.1				
+SRR11517677_pass			61.0%	49%	140 bp	22.3
+SRR11517678_GSM4462340_transcripts_quant	89.5%	22.3				
+SRR11517678_pass			61.4%	48%	138 bp	24.9
+SRR11517679_GSM4462341_transcripts_quant	90.3%	39.8				
+SRR11517679_pass			73.2%	48%	134 bp	44.1
+SRR11517680_GSM4462342_transcripts_quant	75.7%	22.1				
+SRR11517680_pass			69.9%	51%	143 bp	29.2
+SRR11517681_GSM4462343_transcripts_quant	76.8%	2.0				
+SRR11517681_pass			44.3%	51%	138 bp	2.7
+SRR11517682_GSM4462344_transcripts_quant	75.6%	14.6				
+SRR11517682_pass			68.9%	52%	135 bp	19.3
+SRR11517725_GSM4462413_transcripts_quant	78.5%	11.2				
+SRR11517725_pass			63.2%	52%	133 bp	14.3
+SRR11517726_GSM4462413_transcripts_quant	78.5%	11.0				
+SRR11517726_pass			62.8%	52%	133 bp	14.1
+SRR11517727_GSM4462413_transcripts_quant	79.0%	11.7				
+SRR11517727_pass			64.3%	52%	133 bp	14.8
+SRR11517728_GSM4462413_transcripts_quant	79.0%	11.5				
+SRR11517728_pass			64.0%	52%	133 bp	14.5
+SRR11517729_GSM4462414_transcripts_quant	76.8%	7.7				
+SRR11517729_pass			65.9%	49%	134 bp	10.1
+SRR11517730_GSM4462414_transcripts_quant	76.9%	7.6				
+SRR11517730_pass			65.4%	49%	134 bp	9.9
+SRR11517731_GSM4462414_transcripts_quant	77.1%	8.0				
+SRR11517731_pass			66.8%	49%	134 bp	10.3
+SRR11517732_GSM4462414_transcripts_quant	77.1%	7.8				
+SRR11517732_pass			66.4%	49%	134 bp	10.2
+SRR11517733_GSM4462415_transcripts_quant	1.1%	0.0				
+SRR11517733_pass			97.2%	73%	150 bp	2.7
+SRR11517734_GSM4462415_transcripts_quant	1.1%	0.0				
+SRR11517734_pass			97.0%	73%	150 bp	2.6
+SRR11517735_GSM4462415_transcripts_quant	1.1%	0.0				
+SRR11517735_pass			97.9%	73%	150 bp	2.7
+SRR11517736_GSM4462415_transcripts_quant	1.1%	0.0				
+SRR11517736_pass			97.9%	73%	150 bp	2.6
+SRR11517737_GSM4462416_transcripts_quant	17.3%	0.4				
+SRR11517737_pass			87.8%	68%	141 bp	2.4
+SRR11517738_GSM4462416_transcripts_quant	17.3%	0.4				
+SRR11517738_pass			87.6%	68%	141 bp	2.3
+SRR11517739_GSM4462416_transcripts_quant	17.5%	0.4				
+SRR11517739_pass			89.1%	68%	141 bp	2.4
+SRR11517740_GSM4462416_transcripts_quant	17.3%	0.4				
+SRR11517740_pass			89.1%	68%	141 bp	2.4
+SRR11517741_GSM4462345_transcripts_quant	26.4%	6.2				
+SRR11517741_pass			85.7%	47%	135 bp	23.6
+SRR11517742_GSM4462346_transcripts_quant	28.9%	1.7				
+SRR11517742_pass			71.5%	47%	135 bp	5.7
+SRR11517743_GSM4462347_transcripts_quant	28.3%	1.4				
+SRR11517743_pass			75.6%	46%	137 bp	4.8
+SRR11517744_GSM4462348_transcripts_quant	91.8%	8.6				
+SRR11517744_pass			60.8%	51%	136 bp	9.3
+SRR11517745_GSM4462349_transcripts_quant	89.1%	15.5				
+SRR11517745_pass			66.8%	53%	137 bp	17.4
+SRR11517746_GSM4462350_transcripts_quant	91.7%	34.7				
+SRR11517746_pass			72.2%	52%	137 bp	37.8
+SRR11517747_GSM4462351_transcripts_quant	78.2%	18.5				
+SRR11517747_pass			68.4%	49%	137 bp	23.6
+SRR11517748_GSM4462352_transcripts_quant	73.8%	10.0				
+SRR11517748_pass			70.3%	48%	141 bp	13.6
+SRR11517749_GSM4462353_transcripts_quant	69.9%	20.0				
+SRR11517749_pass			71.2%	50%	135 bp	28.7
+SRR11517750_GSM4462354_transcripts_quant	89.8%	5.1				
+SRR11517750_pass			64.8%	54%	139 bp	5.7
+SRR11517751_GSM4462355_transcripts_quant	92.0%	5.9				
+SRR11517751_pass			48.6%	51%	142 bp	6.5
+SRR11517752_GSM4462356_transcripts_quant	91.2%	10.3				
+SRR11517752_pass			56.6%	50%	142 bp	11.3
+SRR11517753_GSM4462357_transcripts_quant	78.0%	14.2				
+SRR11517753_pass			65.1%	48%	143 bp	18.3
+SRR11517754_GSM4462358_transcripts_quant	72.7%	7.3				
+SRR11517754_pass			63.0%	48%	139 bp	10.1
+SRR11517755_GSM4462359_transcripts_quant	75.7%	12.9				
+SRR11517755_pass			66.8%	48%	140 bp	17.0
+SRR11517756_GSM4462360_transcripts_quant	82.5%	18.5				
+SRR11517756_pass			74.8%	46%	132 bp	22.5
+SRR11517757_GSM4462361_transcripts_quant	83.6%	12.6				
+SRR11517757_pass			62.1%	49%	144 bp	15.1
+SRR11517758_GSM4462362_transcripts_quant	82.9%	15.8				
+SRR11517758_pass			69.3%	47%	135 bp	19.1
+SRR11517759_GSM4462363_transcripts_quant	93.4%	1.4				
+SRR11517759_pass			29.1%	51%	143 bp	1.5
+SRR11517760_GSM4462363_transcripts_quant	93.4%	1.5				
+SRR11517760_pass			29.3%	51%	143 bp	1.6
+SRR11517761_GSM4462363_transcripts_quant	93.4%	1.4				
+SRR11517761_pass			29.1%	51%	143 bp	1.5
+SRR11517762_GSM4462363_transcripts_quant	93.5%	1.4				
+SRR11517762_pass			29.0%	51%	143 bp	1.5
+SRR11517763_GSM4462364_transcripts_quant	92.8%	1.5				
+SRR11517763_pass			29.5%	51%	143 bp	1.6
+SRR11517764_GSM4462364_transcripts_quant	92.8%	1.5				
+SRR11517764_pass			29.6%	51%	143 bp	1.6
+SRR11517765_GSM4462364_transcripts_quant	92.8%	1.5				
+SRR11517765_pass			29.3%	51%	143 bp	1.6
+SRR11517766_GSM4462364_transcripts_quant	92.8%	1.4				
+SRR11517766_pass			29.5%	51%	143 bp	1.6
+SRR11517767_GSM4462365_transcripts_quant	88.0%	1.8				
+SRR11517767_pass			30.7%	51%	141 bp	2.0
+SRR11517768_GSM4462365_transcripts_quant	88.2%	1.8				
+SRR11517768_pass			30.8%	51%	141 bp	2.1
+SRR11517769_GSM4462365_transcripts_quant	88.5%	1.9				
+SRR11517769_pass			30.7%	51%	141 bp	2.2
+SRR11517770_GSM4462365_transcripts_quant	87.7%	1.8				
+SRR11517770_pass			30.7%	51%	141 bp	2.1
+SRR11517771_GSM4462366_transcripts_quant	88.2%	3.4				
+SRR11517771_pass			34.7%	51%	141 bp	3.8
+SRR11517772_GSM4462366_transcripts_quant	88.4%	3.5				
+SRR11517772_pass			35.0%	50%	141 bp	3.9
+SRR11517773_GSM4462366_transcripts_quant	88.6%	3.6				
+SRR11517773_pass			34.9%	51%	141 bp	4.1
+SRR11517774_GSM4462366_transcripts_quant	88.0%	3.4				
+SRR11517774_pass			34.6%	50%	141 bp	3.9
+SRR11517775_GSM4462367_transcripts_quant	72.6%	7.7				
+SRR11517775_pass			52.4%	51%	117 bp	10.7
+SRR11517776_GSM4462367_transcripts_quant	72.6%	7.7				
+SRR11517776_pass			52.3%	51%	117 bp	10.6
+SRR11517777_GSM4462367_transcripts_quant	72.7%	8.1				
+SRR11517777_pass			52.8%	51%	117 bp	11.1
+SRR11517778_GSM4462367_transcripts_quant	72.3%	7.8				
+SRR11517778_pass			53.1%	51%	117 bp	10.8
+SRR11517779_GSM4462368_transcripts_quant	66.4%	1.8				
+SRR11517779_pass			42.8%	54%	119 bp	2.7
+SRR11517780_GSM4462368_transcripts_quant	65.9%	1.8				
+SRR11517780_pass			43.1%	54%	119 bp	2.7
+SRR11517781_GSM4462368_transcripts_quant	67.0%	1.9				
+SRR11517781_pass			42.6%	54%	119 bp	2.8
+SRR11517782_GSM4462368_transcripts_quant	65.5%	1.8				
+SRR11517782_pass			42.8%	54%	119 bp	2.7
+SRR11517783_GSM4462369_transcripts_quant	78.7%	2.0				
+SRR11517783_pass			31.3%	50%	122 bp	2.5
+SRR11517784_GSM4462369_transcripts_quant	78.4%	1.9				
+SRR11517784_pass			31.1%	50%	122 bp	2.5
+SRR11517785_GSM4462369_transcripts_quant	78.4%	1.9				
+SRR11517785_pass			30.4%	50%	122 bp	2.5
+SRR11517786_GSM4462369_transcripts_quant	78.2%	2.0				
+SRR11517786_pass			31.0%	50%	122 bp	2.5
+SRR11517787_GSM4462370_transcripts_quant	76.7%	1.0				
+SRR11517787_pass			31.0%	49%	132 bp	1.3
+SRR11517788_GSM4462370_transcripts_quant	76.4%	1.0				
+SRR11517788_pass			30.4%	49%	132 bp	1.3
+SRR11517789_GSM4462370_transcripts_quant	76.2%	1.0				
+SRR11517789_pass			30.0%	49%	131 bp	1.3
+SRR11517790_GSM4462370_transcripts_quant	76.2%	1.0				
+SRR11517790_pass			30.2%	49%	131 bp	1.3
+SRR11517791_GSM4462371_transcripts_quant	85.4%	3.1				
+SRR11517791_pass			33.8%	50%	141 bp	3.6
+SRR11517792_GSM4462371_transcripts_quant	85.5%	3.2				
+SRR11517792_pass			34.0%	50%	141 bp	3.7
+SRR11517793_GSM4462371_transcripts_quant	85.7%	3.3				
+SRR11517793_pass			33.9%	50%	142 bp	3.8
+SRR11517794_GSM4462371_transcripts_quant	85.1%	3.1				
+SRR11517794_pass			34.1%	50%	141 bp	3.7
+SRR11517795_GSM4462372_transcripts_quant	84.4%	1.9				
+SRR11517795_pass			32.0%	53%	143 bp	2.2
+SRR11517796_GSM4462372_transcripts_quant	84.8%	2.0				
+SRR11517796_pass			32.3%	52%	143 bp	2.3
+SRR11517797_GSM4462372_transcripts_quant	84.8%	2.0				
+SRR11517797_pass			32.6%	53%	143 bp	2.4
+SRR11517798_GSM4462372_transcripts_quant	84.2%	1.9				
+SRR11517798_pass			31.8%	52%	143 bp	2.3
+SRR11517799_GSM4462373_transcripts_quant	76.9%	2.6				
+SRR11517799_pass			35.5%	50%	127 bp	3.4
+SRR11517800_GSM4462373_transcripts_quant	76.8%	2.6				
+SRR11517800_pass			35.0%	50%	127 bp	3.4
+SRR11517801_GSM4462373_transcripts_quant	76.5%	2.5				
+SRR11517801_pass			34.3%	50%	126 bp	3.3
+SRR11517802_GSM4462373_transcripts_quant	76.5%	2.6				
+SRR11517802_pass			35.0%	50%	126 bp	3.4
+SRR11517803_GSM4462374_transcripts_quant	69.5%	4.0				
+SRR11517803_pass			52.9%	52%	127 bp	5.8
+SRR11517804_GSM4462374_transcripts_quant	69.2%	3.9				
+SRR11517804_pass			52.4%	52%	127 bp	5.7
+SRR11517805_GSM4462374_transcripts_quant	68.9%	3.9				
+SRR11517805_pass			52.3%	52%	126 bp	5.6
+SRR11517806_GSM4462374_transcripts_quant	68.9%	4.0				
+SRR11517806_pass			52.9%	52%	126 bp	5.8
+SRR11517807_GSM4462375_transcripts_quant	90.3%	3.9				
+SRR11517807_pass			38.8%	51%	144 bp	4.3
+SRR11517808_GSM4462375_transcripts_quant	90.4%	4.1				
+SRR11517808_pass			39.1%	51%	144 bp	4.5
+SRR11517809_GSM4462375_transcripts_quant	90.4%	3.9				
+SRR11517809_pass			38.2%	51%	144 bp	4.3
+SRR11517810_GSM4462375_transcripts_quant	90.2%	4.0				
+SRR11517810_pass			38.8%	51%	144 bp	4.4
+SRR11517811_GSM4462376_transcripts_quant	86.5%	3.7				
+SRR11517811_pass			40.5%	51%	143 bp	4.3
+SRR11517812_GSM4462376_transcripts_quant	86.6%	3.8				
+SRR11517812_pass			40.7%	51%	143 bp	4.4
+SRR11517813_GSM4462376_transcripts_quant	86.4%	3.6				
+SRR11517813_pass			39.9%	51%	143 bp	4.2
+SRR11517814_GSM4462376_transcripts_quant	86.3%	3.7				
+SRR11517814_pass			40.6%	51%	143 bp	4.3
+SRR11517815_GSM4462377_transcripts_quant	89.0%	2.8				
+SRR11517815_pass			33.4%	50%	145 bp	3.1
+SRR11517816_GSM4462377_transcripts_quant	88.9%	2.9				
+SRR11517816_pass			33.7%	50%	145 bp	3.2
+SRR11517817_GSM4462377_transcripts_quant	88.9%	2.7				
+SRR11517817_pass			32.8%	50%	145 bp	3.1
+SRR11517818_GSM4462377_transcripts_quant	88.8%	2.8				
+SRR11517818_pass			33.5%	50%	145 bp	3.2
+SRR11517819_GSM4462378_transcripts_quant	89.1%	2.6				
+SRR11517819_pass			32.9%	50%	146 bp	2.9
+SRR11517820_GSM4462378_transcripts_quant	89.1%	2.7				
+SRR11517820_pass			33.2%	50%	146 bp	3.0
+SRR11517821_GSM4462378_transcripts_quant	89.0%	2.5				
+SRR11517821_pass			32.2%	50%	146 bp	2.8
+SRR11517822_GSM4462378_transcripts_quant	88.9%	2.6				
+SRR11517822_pass			32.9%	50%	146 bp	2.9
+SRR11517823_GSM4462379_transcripts_quant	88.2%	2.6				
+SRR11517823_pass			33.1%	50%	147 bp	2.9
+SRR11517824_GSM4462379_transcripts_quant	88.3%	2.7				
+SRR11517824_pass			33.3%	50%	147 bp	3.1
+SRR11517825_GSM4462379_transcripts_quant	88.3%	2.5				
+SRR11517825_pass			32.3%	50%	147 bp	2.9
+SRR11517826_GSM4462379_transcripts_quant	88.1%	2.6				
+SRR11517826_pass			33.2%	50%	147 bp	3.0
+SRR11517827_GSM4462380_transcripts_quant	90.6%	2.6				
+SRR11517827_pass			33.7%	51%	147 bp	2.8
+SRR11517828_GSM4462380_transcripts_quant	90.6%	2.7				
+SRR11517828_pass			34.3%	51%	147 bp	2.9
+SRR11517829_GSM4462380_transcripts_quant	90.5%	2.5				
+SRR11517829_pass			33.2%	51%	147 bp	2.8
+SRR11517830_GSM4462380_transcripts_quant	90.4%	2.6				
+SRR11517830_pass			33.9%	51%	147 bp	2.9

@@ -1,0 +1,101 @@
+Sample Name	% Aligned	M Aligned	% Dups	% GC	M Seqs
+SRR8307929_GSM3505486_transcripts_quant	79.1%	47.2			
+SRR8307929_pass			62.4%	46%	59.6
+SRR8307930_GSM3505487_transcripts_quant	76.8%	49.8			
+SRR8307930_pass			67.0%	44%	64.9
+SRR8307931_GSM3505488_transcripts_quant	80.7%	49.9			
+SRR8307931_pass			70.6%	45%	61.8
+SRR8307932_GSM3505489_transcripts_quant	79.8%	61.9			
+SRR8307932_pass			68.0%	46%	77.6
+SRR8307933_GSM3505490_transcripts_quant	82.1%	54.1			
+SRR8307933_pass			73.5%	44%	65.9
+SRR8307934_GSM3505491_transcripts_quant	78.9%	54.3			
+SRR8307934_pass			62.3%	47%	68.9
+SRR8307935_GSM3505492_transcripts_quant	64.9%	46.4			
+SRR8307935_pass			79.0%	45%	71.5
+SRR8307936_GSM3505493_transcripts_quant	82.8%	51.4			
+SRR8307936_pass			75.3%	44%	62.0
+SRR8307937_GSM3505494_transcripts_quant	80.3%	48.7			
+SRR8307937_pass			78.9%	43%	60.6
+SRR8307938_GSM3505495_transcripts_quant	79.0%	62.0			
+SRR8307938_pass			69.1%	45%	78.6
+SRR8307939_GSM3505496_transcripts_quant	80.2%	65.9			
+SRR8307939_pass			58.0%	47%	82.2
+SRR8307940_GSM3505497_transcripts_quant	81.1%	48.1			
+SRR8307940_pass			59.5%	47%	59.2
+SRR8307941_GSM3505498_transcripts_quant	82.1%	64.5			
+SRR8307941_pass			58.4%	47%	78.6
+SRR8307942_GSM3505499_transcripts_quant	82.0%	59.7			
+SRR8307942_pass			65.0%	46%	72.8
+SRR8307943_GSM3505500_transcripts_quant	80.7%	59.4			
+SRR8307943_pass			61.6%	47%	73.6
+SRR8307944_GSM3505501_transcripts_quant	80.9%	69.5			
+SRR8307944_pass			60.0%	49%	85.9
+SRR8307945_GSM3505502_transcripts_quant	78.3%	53.6			
+SRR8307945_pass			59.7%	45%	68.5
+SRR8307946_GSM3505503_transcripts_quant	83.8%	58.5			
+SRR8307946_pass			58.3%	47%	69.8
+SRR8307947_GSM3505504_transcripts_quant	82.8%	62.7			
+SRR8307947_pass			61.6%	47%	75.7
+SRR8307948_GSM3505505_transcripts_quant	82.6%	55.6			
+SRR8307948_pass			61.9%	47%	67.3
+SRR8307949_GSM3505506_transcripts_quant	77.7%	63.4			
+SRR8307949_pass			56.2%	48%	81.6
+SRR8307950_GSM3505507_transcripts_quant	69.9%	54.6			
+SRR8307950_pass			66.6%	42%	78.1
+SRR8307951_GSM3505508_transcripts_quant	78.3%	60.5			
+SRR8307951_pass			64.5%	46%	77.3
+SRR8307952_GSM3505509_transcripts_quant	79.1%	54.9			
+SRR8307952_pass			63.3%	45%	69.4
+SRR8307953_GSM3505510_transcripts_quant	79.3%	53.4			
+SRR8307953_pass			64.1%	45%	67.3
+SRR8307954_GSM3505511_transcripts_quant	78.4%	53.3			
+SRR8307954_pass			62.5%	47%	68.0
+SRR8307955_GSM3505512_transcripts_quant	75.2%	55.1			
+SRR8307955_pass			82.7%	41%	73.3
+SRR8307956_GSM3505513_transcripts_quant	84.5%	57.6			
+SRR8307956_pass			80.5%	43%	68.2
+SRR8307957_GSM3505514_transcripts_quant	79.8%	46.9			
+SRR8307957_pass			74.3%	44%	58.7
+SRR8307958_GSM3505515_transcripts_quant	80.6%	60.2			
+SRR8307958_pass			67.8%	44%	74.6
+SRR8307959_GSM3505516_transcripts_quant	79.0%	63.4			
+SRR8307959_pass			57.1%	48%	80.3
+SRR8307960_GSM3505517_transcripts_quant	77.3%	53.9			
+SRR8307960_pass			61.2%	48%	69.7
+SRR8307961_GSM3505518_transcripts_quant	81.6%	55.8			
+SRR8307961_pass			57.8%	47%	68.4
+SRR8307962_GSM3505519_transcripts_quant	79.3%	53.0			
+SRR8307962_pass			60.9%	47%	66.8
+SRR8307963_GSM3505520_transcripts_quant	79.7%	52.6			
+SRR8307963_pass			59.4%	47%	66.0
+SRR8307964_GSM3505521_transcripts_quant	83.4%	61.6			
+SRR8307964_pass			67.1%	48%	73.8
+SRR8307965_GSM3505522_transcripts_quant	84.8%	68.3			
+SRR8307965_pass			64.9%	50%	80.6
+SRR8307966_GSM3505523_transcripts_quant	85.5%	66.6			
+SRR8307966_pass			62.7%	48%	77.9
+SRR8307967_GSM3505524_transcripts_quant	81.6%	62.8			
+SRR8307967_pass			68.2%	47%	77.0
+SRR8307968_GSM3505525_transcripts_quant	82.2%	54.7			
+SRR8307968_pass			64.6%	48%	66.5
+SRR8307969_GSM3505526_transcripts_quant	77.2%	57.2			
+SRR8307969_pass			57.8%	47%	74.1
+SRR8307970_GSM3505527_transcripts_quant	73.2%	42.0			
+SRR8307970_pass			65.5%	42%	57.4
+SRR8307971_GSM3505528_transcripts_quant	77.7%	59.8			
+SRR8307971_pass			68.1%	44%	77.0
+SRR8307972_GSM3505529_transcripts_quant	80.1%	56.8			
+SRR8307972_pass			69.3%	46%	70.9
+SRR8307973_GSM3505530_transcripts_quant	73.3%	45.1			
+SRR8307973_pass			81.1%	38%	61.5
+SRR8307974_GSM3505531_transcripts_quant	83.5%	69.1			
+SRR8307974_pass			61.8%	48%	82.7
+SRR8307975_GSM3505532_transcripts_quant	85.0%	58.5			
+SRR8307975_pass			64.7%	50%	68.9
+SRR8307976_GSM3505533_transcripts_quant	85.9%	70.4			
+SRR8307976_pass			63.0%	48%	82.0
+SRR8307977_GSM3505534_transcripts_quant	82.5%	63.4			
+SRR8307977_pass			67.2%	47%	76.8
+SRR8307978_GSM3505535_transcripts_quant	84.6%	51.2			
+SRR8307978_pass			71.3%	46%	60.6

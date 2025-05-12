@@ -1,0 +1,52 @@
+Sample Name	% Aligned	M Aligned	% Dups	% GC	Length	M Seqs
+SRR2422918_GSM1885080_transcripts_quant	47.2%	26.6				
+SRR2422918_pass_1			26.7%	43%	125 bp	56.4
+SRR2422918_pass_2			26.0%	43%	125 bp	56.4
+SRR2422919_GSM1885081_transcripts_quant	74.5%	35.1				
+SRR2422919_pass_1			64.6%	48%	125 bp	47.1
+SRR2422919_pass_2			65.2%	48%	125 bp	47.1
+SRR2422920_GSM1885082_transcripts_quant	47.6%	21.5				
+SRR2422920_pass_1			25.8%	44%	125 bp	45.2
+SRR2422920_pass_2			25.3%	44%	125 bp	45.2
+SRR2422921_GSM1885083_transcripts_quant	55.5%	35.2				
+SRR2422921_pass_1			14.7%	46%	125 bp	63.5
+SRR2422921_pass_2			24.4%	45%	125 bp	63.5
+SRR2422922_GSM1885084_transcripts_quant	53.4%	30.9				
+SRR2422922_pass_1			23.6%	45%	125 bp	57.8
+SRR2422922_pass_2			32.4%	45%	125 bp	57.8
+SRR2422923_GSM1885085_transcripts_quant	55.2%	35.9				
+SRR2422923_pass_1			31.3%	44%	101 bp	65.2
+SRR2422923_pass_2			32.3%	44%	101 bp	65.2
+SRR2422924_GSM1885086_transcripts_quant	54.4%	42.7				
+SRR2422924_pass_1			31.4%	44%	101 bp	78.5
+SRR2422924_pass_2			33.6%	44%	101 bp	78.5
+SRR2422925_GSM1885087_transcripts_quant	52.1%	28.2				
+SRR2422925_pass_1			29.1%	43%	101 bp	54.1
+SRR2422925_pass_2			30.0%	43%	101 bp	54.1
+SRR2422926_GSM1885088_transcripts_quant	48.8%	23.0				
+SRR2422926_pass_1			23.2%	43%	125 bp	47.1
+SRR2422926_pass_2			22.9%	43%	125 bp	47.1
+SRR2422927_GSM1885089_transcripts_quant	48.0%	22.7				
+SRR2422927_pass_1			25.1%	43%	125 bp	47.3
+SRR2422927_pass_2			24.7%	43%	125 bp	47.3
+SRR2422928_GSM1885090_transcripts_quant	47.9%	27.3				
+SRR2422928_pass_1			24.6%	44%	125 bp	57.1
+SRR2422928_pass_2			24.4%	44%	125 bp	57.1
+SRR2422929_GSM1885091_transcripts_quant	48.4%	33.3				
+SRR2422929_pass_1			10.4%	44%	125 bp	68.8
+SRR2422929_pass_2			19.7%	44%	125 bp	68.8
+SRR2422930_GSM1885092_transcripts_quant	47.8%	28.7				
+SRR2422930_pass_1			15.5%	46%	125 bp	60.1
+SRR2422930_pass_2			24.3%	46%	125 bp	60.1
+SRR2422931_GSM1885093_transcripts_quant	53.2%	40.0				
+SRR2422931_pass_1			14.2%	44%	125 bp	75.1
+SRR2422931_pass_2			23.2%	44%	125 bp	75.1
+SRR2422932_GSM1885094_transcripts_quant	54.6%	34.4				
+SRR2422932_pass_1			32.7%	44%	101 bp	63.1
+SRR2422932_pass_2			33.7%	44%	101 bp	63.1
+SRR2422933_GSM1885095_transcripts_quant	49.8%	40.9				
+SRR2422933_pass_1			28.0%	44%	101 bp	82.0
+SRR2422933_pass_2			30.3%	43%	101 bp	82.0
+SRR2422934_GSM1885096_transcripts_quant	49.1%	22.7				
+SRR2422934_pass_1			26.4%	44%	101 bp	46.2
+SRR2422934_pass_2			28.3%	44%	101 bp	46.2

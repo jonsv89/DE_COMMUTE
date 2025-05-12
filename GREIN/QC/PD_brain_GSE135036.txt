@@ -1,0 +1,289 @@
+Sample Name	% Aligned	M Aligned	% Dups	% GC	M Seqs
+SRR9854771_GSM3984151_transcripts_quant	38.8%	5.4			
+SRR9854771_pass			25.2%	42%	13.9
+SRR9854772_GSM3984151_transcripts_quant	38.8%	3.2			
+SRR9854772_pass			21.2%	43%	8.3
+SRR9854773_GSM3984151_transcripts_quant	38.8%	4.6			
+SRR9854773_pass			24.2%	42%	11.9
+SRR9854774_GSM3984151_transcripts_quant	38.3%	2.9			
+SRR9854774_pass			19.9%	42%	7.6
+SRR9854775_GSM3984152_transcripts_quant	40.6%	3.4			
+SRR9854775_pass			24.7%	42%	8.5
+SRR9854776_GSM3984152_transcripts_quant	40.6%	6.7			
+SRR9854776_pass			34.6%	42%	16.6
+SRR9854777_GSM3984152_transcripts_quant	40.6%	4.6			
+SRR9854777_pass			29.4%	42%	11.5
+SRR9854778_GSM3984152_transcripts_quant	40.0%	2.8			
+SRR9854778_pass			22.0%	42%	7.1
+SRR9854779_GSM3984153_transcripts_quant	41.8%	5.3			
+SRR9854779_pass			25.1%	46%	12.6
+SRR9854780_GSM3984153_transcripts_quant	41.8%	3.9			
+SRR9854780_pass			22.8%	46%	9.4
+SRR9854781_GSM3984153_transcripts_quant	41.8%	4.9			
+SRR9854781_pass			24.3%	46%	11.8
+SRR9854782_GSM3984153_transcripts_quant	41.2%	3.1			
+SRR9854782_pass			19.8%	46%	7.5
+SRR9854783_GSM3984154_transcripts_quant	44.6%	4.9			
+SRR9854783_pass			26.7%	47%	11.0
+SRR9854784_GSM3984154_transcripts_quant	44.6%	5.1			
+SRR9854784_pass			27.2%	47%	11.4
+SRR9854785_GSM3984154_transcripts_quant	44.5%	5.6			
+SRR9854785_pass			28.1%	46%	12.6
+SRR9854786_GSM3984154_transcripts_quant	43.9%	3.6			
+SRR9854786_pass			22.9%	46%	8.2
+SRR9854787_GSM3984155_transcripts_quant	41.9%	5.4			
+SRR9854787_pass			22.0%	45%	12.8
+SRR9854788_GSM3984155_transcripts_quant	42.0%	3.9			
+SRR9854788_pass			19.1%	45%	9.3
+SRR9854789_GSM3984155_transcripts_quant	41.8%	4.8			
+SRR9854789_pass			21.0%	45%	11.6
+SRR9854790_GSM3984155_transcripts_quant	41.3%	3.1			
+SRR9854790_pass			16.6%	45%	7.4
+SRR9854791_GSM3984156_transcripts_quant	42.2%	5.3			
+SRR9854791_pass			23.8%	46%	12.5
+SRR9854792_GSM3984156_transcripts_quant	42.2%	4.1			
+SRR9854792_pass			21.7%	46%	9.6
+SRR9854793_GSM3984156_transcripts_quant	42.2%	4.8			
+SRR9854793_pass			22.4%	46%	11.4
+SRR9854794_GSM3984156_transcripts_quant	41.6%	3.0			
+SRR9854794_pass			18.4%	46%	7.3
+SRR9854795_GSM3984157_transcripts_quant	45.7%	6.0			
+SRR9854795_pass			23.8%	45%	13.0
+SRR9854796_GSM3984157_transcripts_quant	45.8%	4.2			
+SRR9854796_pass			20.9%	45%	9.2
+SRR9854797_GSM3984157_transcripts_quant	45.6%	5.4			
+SRR9854797_pass			23.1%	45%	11.9
+SRR9854798_GSM3984157_transcripts_quant	45.0%	3.4			
+SRR9854798_pass			18.5%	45%	7.6
+SRR9854799_GSM3984158_transcripts_quant	39.8%	4.4			
+SRR9854799_pass			25.6%	42%	10.9
+SRR9854800_GSM3984158_transcripts_quant	39.8%	4.8			
+SRR9854800_pass			26.5%	42%	11.9
+SRR9854801_GSM3984158_transcripts_quant	39.8%	4.8			
+SRR9854801_pass			26.7%	42%	12.0
+SRR9854802_GSM3984158_transcripts_quant	39.3%	3.0			
+SRR9854802_pass			21.1%	42%	7.6
+SRR9854803_GSM3984159_transcripts_quant	44.6%	6.0			
+SRR9854803_pass			23.8%	46%	13.4
+SRR9854804_GSM3984159_transcripts_quant	44.6%	4.0			
+SRR9854804_pass			20.1%	46%	8.9
+SRR9854805_GSM3984159_transcripts_quant	44.5%	5.4			
+SRR9854805_pass			22.7%	46%	12.1
+SRR9854806_GSM3984159_transcripts_quant	43.9%	3.4			
+SRR9854806_pass			18.1%	46%	7.7
+SRR9854807_GSM3984160_transcripts_quant	48.6%	5.5			
+SRR9854807_pass			29.7%	42%	11.2
+SRR9854808_GSM3984160_transcripts_quant	48.6%	6.0			
+SRR9854808_pass			31.1%	42%	12.3
+SRR9854809_GSM3984160_transcripts_quant	48.6%	5.4			
+SRR9854809_pass			30.3%	42%	11.1
+SRR9854810_GSM3984160_transcripts_quant	47.9%	3.3			
+SRR9854810_pass			24.2%	42%	6.9
+SRR9854811_GSM3984161_transcripts_quant	44.7%	5.1			
+SRR9854811_pass			25.7%	45%	11.3
+SRR9854812_GSM3984161_transcripts_quant	44.8%	5.0			
+SRR9854812_pass			25.6%	45%	11.1
+SRR9854813_GSM3984161_transcripts_quant	44.6%	5.4			
+SRR9854813_pass			26.4%	45%	12.1
+SRR9854814_GSM3984161_transcripts_quant	44.1%	3.4			
+SRR9854814_pass			21.5%	45%	7.7
+SRR9854815_GSM3984162_transcripts_quant	44.7%	5.9			
+SRR9854815_pass			29.2%	44%	13.1
+SRR9854816_GSM3984162_transcripts_quant	44.7%	4.1			
+SRR9854816_pass			25.7%	44%	9.1
+SRR9854817_GSM3984162_transcripts_quant	44.7%	5.2			
+SRR9854817_pass			28.1%	44%	11.6
+SRR9854818_GSM3984162_transcripts_quant	44.1%	3.3			
+SRR9854818_pass			23.1%	44%	7.4
+SRR9854819_GSM3984163_transcripts_quant	40.9%	3.7			
+SRR9854819_pass			28.5%	42%	9.1
+SRR9854820_GSM3984163_transcripts_quant	40.8%	6.2			
+SRR9854820_pass			36.3%	42%	15.1
+SRR9854821_GSM3984163_transcripts_quant	40.9%	5.0			
+SRR9854821_pass			33.2%	42%	12.2
+SRR9854822_GSM3984163_transcripts_quant	40.3%	3.1			
+SRR9854822_pass			25.6%	42%	7.7
+SRR9854823_GSM3984164_transcripts_quant	44.5%	6.1			
+SRR9854823_pass			21.9%	45%	13.8
+SRR9854824_GSM3984164_transcripts_quant	44.5%	3.9			
+SRR9854824_pass			18.5%	45%	8.7
+SRR9854825_GSM3984164_transcripts_quant	44.4%	5.4			
+SRR9854825_pass			20.8%	45%	12.1
+SRR9854826_GSM3984164_transcripts_quant	43.8%	3.4			
+SRR9854826_pass			16.9%	44%	7.7
+SRR9854827_GSM3984165_transcripts_quant	44.0%	6.3			
+SRR9854827_pass			29.0%	44%	14.4
+SRR9854828_GSM3984165_transcripts_quant	44.0%	3.4			
+SRR9854828_pass			24.4%	44%	7.7
+SRR9854829_GSM3984165_transcripts_quant	44.0%	5.2			
+SRR9854829_pass			27.6%	43%	11.9
+SRR9854830_GSM3984165_transcripts_quant	43.4%	3.3			
+SRR9854830_pass			23.2%	43%	7.6
+SRR9854831_GSM3984166_transcripts_quant	39.8%	4.6			
+SRR9854831_pass			31.3%	43%	11.6
+SRR9854832_GSM3984166_transcripts_quant	39.7%	4.6			
+SRR9854832_pass			31.5%	44%	11.7
+SRR9854833_GSM3984166_transcripts_quant	39.8%	4.4			
+SRR9854833_pass			30.9%	43%	11.0
+SRR9854834_GSM3984166_transcripts_quant	39.2%	2.8			
+SRR9854834_pass			25.1%	43%	7.1
+SRR9854835_GSM3984167_transcripts_quant	40.8%	5.6			
+SRR9854835_pass			25.4%	43%	13.8
+SRR9854836_GSM3984167_transcripts_quant	40.8%	3.5			
+SRR9854836_pass			21.1%	43%	8.5
+SRR9854837_GSM3984167_transcripts_quant	40.8%	4.9			
+SRR9854837_pass			24.5%	43%	12.0
+SRR9854838_GSM3984167_transcripts_quant	40.2%	3.1			
+SRR9854838_pass			19.4%	42%	7.7
+SRR9854839_GSM3984168_transcripts_quant	42.8%	5.4			
+SRR9854839_pass			30.2%	43%	12.7
+SRR9854840_GSM3984168_transcripts_quant	42.8%	4.0			
+SRR9854840_pass			27.4%	43%	9.3
+SRR9854841_GSM3984168_transcripts_quant	42.8%	5.0			
+SRR9854841_pass			29.6%	43%	11.6
+SRR9854842_GSM3984168_transcripts_quant	42.1%	3.1			
+SRR9854842_pass			24.5%	43%	7.4
+SRR9854843_GSM3984169_transcripts_quant	49.8%	4.0			
+SRR9854843_pass			33.4%	47%	8.1
+SRR9854844_GSM3984169_transcripts_quant	49.7%	8.6			
+SRR9854844_pass			46.6%	47%	17.3
+SRR9854845_GSM3984169_transcripts_quant	49.6%	5.9			
+SRR9854845_pass			39.7%	47%	12.0
+SRR9854846_GSM3984169_transcripts_quant	49.0%	3.7			
+SRR9854846_pass			31.3%	47%	7.6
+SRR9854847_GSM3984170_transcripts_quant	45.1%	6.4			
+SRR9854847_pass			28.7%	43%	14.2
+SRR9854848_GSM3984170_transcripts_quant	45.1%	3.4			
+SRR9854848_pass			23.2%	43%	7.6
+SRR9854849_GSM3984170_transcripts_quant	45.1%	5.4			
+SRR9854849_pass			27.1%	43%	12.1
+SRR9854850_GSM3984170_transcripts_quant	44.5%	3.4			
+SRR9854850_pass			22.5%	43%	7.6
+SRR9854851_GSM3984171_transcripts_quant	43.3%	6.1			
+SRR9854851_pass			27.8%	43%	14.1
+SRR9854852_GSM3984171_transcripts_quant	43.3%	3.4			
+SRR9854852_pass			23.2%	43%	7.9
+SRR9854853_GSM3984171_transcripts_quant	43.3%	5.3			
+SRR9854853_pass			26.9%	43%	12.3
+SRR9854854_GSM3984171_transcripts_quant	42.7%	3.3			
+SRR9854854_pass			22.1%	43%	7.7
+SRR9854855_GSM3984172_transcripts_quant	38.1%	4.1			
+SRR9854855_pass			24.4%	42%	10.8
+SRR9854856_GSM3984172_transcripts_quant	38.1%	4.7			
+SRR9854856_pass			26.0%	42%	12.4
+SRR9854857_GSM3984172_transcripts_quant	38.1%	4.4			
+SRR9854857_pass			25.4%	42%	11.6
+SRR9854858_GSM3984172_transcripts_quant	37.5%	2.7			
+SRR9854858_pass			19.9%	42%	7.3
+SRR9854859_GSM3984173_transcripts_quant	43.5%	5.2			
+SRR9854859_pass			30.7%	43%	12.0
+SRR9854860_GSM3984173_transcripts_quant	43.4%	4.6			
+SRR9854860_pass			29.3%	43%	10.7
+SRR9854861_GSM3984173_transcripts_quant	43.5%	4.9			
+SRR9854861_pass			30.3%	43%	11.4
+SRR9854862_GSM3984173_transcripts_quant	42.9%	3.1			
+SRR9854862_pass			24.5%	43%	7.3
+SRR9854863_GSM3984174_transcripts_quant	42.5%	5.7			
+SRR9854863_pass			27.7%	43%	13.4
+SRR9854864_GSM3984174_transcripts_quant	42.6%	3.7			
+SRR9854864_pass			23.5%	43%	8.7
+SRR9854865_GSM3984174_transcripts_quant	42.5%	5.0			
+SRR9854865_pass			26.5%	43%	11.8
+SRR9854866_GSM3984174_transcripts_quant	41.9%	3.1			
+SRR9854866_pass			21.3%	43%	7.4
+SRR9854867_GSM3984175_transcripts_quant	45.5%	6.8			
+SRR9854867_pass			22.1%	45%	15.0
+SRR9854868_GSM3984175_transcripts_quant	45.6%	3.1			
+SRR9854868_pass			16.7%	45%	6.8
+SRR9854869_GSM3984175_transcripts_quant	45.3%	5.7			
+SRR9854869_pass			20.8%	45%	12.5
+SRR9854870_GSM3984175_transcripts_quant	44.8%	3.7			
+SRR9854870_pass			16.9%	45%	8.2
+SRR9854871_GSM3984176_transcripts_quant	42.7%	5.0			
+SRR9854871_pass			23.6%	44%	11.7
+SRR9854872_GSM3984176_transcripts_quant	42.7%	4.7			
+SRR9854872_pass			22.9%	44%	11.0
+SRR9854873_GSM3984176_transcripts_quant	42.6%	4.9			
+SRR9854873_pass			23.5%	44%	11.5
+SRR9854874_GSM3984176_transcripts_quant	42.1%	3.1			
+SRR9854874_pass			17.9%	44%	7.3
+SRR9854875_GSM3984177_transcripts_quant	45.4%	6.4			
+SRR9854875_pass			22.6%	45%	14.1
+SRR9854876_GSM3984177_transcripts_quant	45.5%	3.6			
+SRR9854876_pass			17.9%	45%	8.0
+SRR9854877_GSM3984177_transcripts_quant	45.3%	5.5			
+SRR9854877_pass			21.4%	45%	12.2
+SRR9854878_GSM3984177_transcripts_quant	44.8%	3.5			
+SRR9854878_pass			17.0%	45%	7.8
+SRR9854879_GSM3984178_transcripts_quant	39.3%	4.3			
+SRR9854879_pass			21.7%	43%	11.0
+SRR9854880_GSM3984178_transcripts_quant	39.3%	4.8			
+SRR9854880_pass			22.8%	43%	12.3
+SRR9854881_GSM3984178_transcripts_quant	39.2%	4.5			
+SRR9854881_pass			22.4%	43%	11.6
+SRR9854882_GSM3984178_transcripts_quant	38.7%	2.9			
+SRR9854882_pass			17.8%	43%	7.4
+SRR9854883_GSM3984179_transcripts_quant	45.5%	6.8			
+SRR9854883_pass			24.6%	46%	15.0
+SRR9854884_GSM3984179_transcripts_quant	45.5%	3.1			
+SRR9854884_pass			19.0%	46%	6.8
+SRR9854885_GSM3984179_transcripts_quant	45.4%	5.7			
+SRR9854885_pass			23.3%	46%	12.6
+SRR9854886_GSM3984179_transcripts_quant	44.8%	3.6			
+SRR9854886_pass			19.1%	46%	8.1
+SRR9854887_GSM3984180_transcripts_quant	40.8%	5.5			
+SRR9854887_pass			23.9%	43%	13.5
+SRR9854888_GSM3984180_transcripts_quant	40.7%	3.5			
+SRR9854888_pass			19.9%	43%	8.5
+SRR9854889_GSM3984180_transcripts_quant	40.8%	4.6			
+SRR9854889_pass			22.7%	43%	11.3
+SRR9854890_GSM3984180_transcripts_quant	40.2%	2.9			
+SRR9854890_pass			17.7%	43%	7.2
+SRR9854891_GSM3984181_transcripts_quant	44.4%	7.0			
+SRR9854891_pass			23.7%	45%	15.8
+SRR9854892_GSM3984181_transcripts_quant	44.5%	2.8			
+SRR9854892_pass			16.9%	45%	6.3
+SRR9854893_GSM3984181_transcripts_quant	44.3%	5.4			
+SRR9854893_pass			21.5%	45%	12.2
+SRR9854894_GSM3984181_transcripts_quant	43.8%	3.5			
+SRR9854894_pass			17.4%	45%	7.9
+SRR9854895_GSM3984182_transcripts_quant	58.1%	6.0			
+SRR9854895_pass			36.2%	45%	10.3
+SRR9854896_GSM3984182_transcripts_quant	58.0%	7.6			
+SRR9854896_pass			40.1%	46%	13.1
+SRR9854897_GSM3984182_transcripts_quant	58.1%	6.9			
+SRR9854897_pass			38.8%	45%	12.0
+SRR9854898_GSM3984182_transcripts_quant	57.2%	4.3			
+SRR9854898_pass			30.7%	45%	7.5
+SRR9854899_GSM3984183_transcripts_quant	43.5%	5.4			
+SRR9854899_pass			24.1%	45%	12.3
+SRR9854900_GSM3984183_transcripts_quant	43.6%	4.5			
+SRR9854900_pass			22.3%	45%	10.4
+SRR9854901_GSM3984183_transcripts_quant	43.4%	5.1			
+SRR9854901_pass			23.6%	45%	11.7
+SRR9854902_GSM3984183_transcripts_quant	43.0%	3.2			
+SRR9854902_pass			18.4%	45%	7.5
+SRR9854903_GSM3984184_transcripts_quant	38.1%	5.4			
+SRR9854903_pass			22.3%	42%	14.2
+SRR9854904_GSM3984184_transcripts_quant	38.1%	3.0			
+SRR9854904_pass			17.3%	42%	7.8
+SRR9854905_GSM3984184_transcripts_quant	38.0%	4.6			
+SRR9854905_pass			21.3%	42%	12.2
+SRR9854906_GSM3984184_transcripts_quant	37.6%	2.9			
+SRR9854906_pass			16.6%	42%	7.8
+SRR9854907_GSM3984185_transcripts_quant	49.1%	5.3			
+SRR9854907_pass			30.1%	46%	10.9
+SRR9854908_GSM3984185_transcripts_quant	49.1%	6.0			
+SRR9854908_pass			32.0%	46%	12.2
+SRR9854909_GSM3984185_transcripts_quant	49.1%	5.4			
+SRR9854909_pass			30.7%	46%	11.0
+SRR9854910_GSM3984185_transcripts_quant	48.4%	3.3			
+SRR9854910_pass			24.3%	46%	6.9
+SRR9854911_GSM3984186_transcripts_quant	41.7%	6.0			
+SRR9854911_pass			25.8%	43%	14.4
+SRR9854912_GSM3984186_transcripts_quant	41.7%	3.4			
+SRR9854912_pass			20.4%	43%	8.1
+SRR9854913_GSM3984186_transcripts_quant	41.7%	4.8			
+SRR9854913_pass			23.9%	43%	11.6
+SRR9854914_GSM3984186_transcripts_quant	41.2%	3.1			
+SRR9854914_pass			19.2%	43%	7.4
